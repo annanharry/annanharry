@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annanharry&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=annanharry&show_icons=true&theme=transparent)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annanharry&theme=transparent)](https://git.io/streak-stats)
     
