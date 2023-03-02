@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=annanharry&show_icons=true&theme=transparent)-->
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annanharry&theme=transparent)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annanharry&theme=transparent)](https://git.io/streak-stats)-->
     
 </div>
