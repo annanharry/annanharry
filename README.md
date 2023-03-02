@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<div align="center">
+<div align="left">
   
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annanharry&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
